@@ -1,0 +1,4 @@
+﻿  Task_B.cpp
+D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\Lab7_Add\Task_B\Task_B.cpp(13,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\Lab7_Add\Task_B\Task_B.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Task_B.vcxproj -> D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\Lab7_Add\Debug\Task_B.exe

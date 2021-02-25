@@ -1,0 +1,5 @@
+﻿  Funct.cpp
+  Task.cpp
+D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\Lab4\Task\Task.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Task.vcxproj -> D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\Lab4\Debug\Task.exe

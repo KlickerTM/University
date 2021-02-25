@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Task_3A.cpp
+D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\Lab3_Add\Task_3A\Task_3A.cpp(151,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Task_3A.vcxproj -> D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\Lab3_Add\Debug\Task_3A.exe

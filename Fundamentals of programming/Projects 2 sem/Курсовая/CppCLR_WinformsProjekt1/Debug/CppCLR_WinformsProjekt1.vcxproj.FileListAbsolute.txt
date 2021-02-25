@@ -1,0 +1,9 @@
+D:\proects\c++\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxprojAssemblyReference.cache
+D:\proects\c++\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.Form1.resources
+D:\proects\c++\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache
+D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxprojAssemblyReference.cache
+D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.Form1.resources
+D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache
+D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\Курсовая\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxprojAssemblyReference.cache
+D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\Курсовая\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.Form1.resources
+D:\My main File\Универ\Основи програмування\Проекты по программированию 2 сем\Курсовая\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache
