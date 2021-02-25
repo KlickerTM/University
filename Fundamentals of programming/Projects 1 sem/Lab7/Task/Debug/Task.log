@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Task.cpp
+D:\My main File\Универ\Основи програмування\Проекты по программированию 1 сем\Lab7\Task\Task.cpp(34,16): warning C4244: =: преобразование "double" в "short", возможна потеря данных
+  Task.vcxproj -> D:\My main File\Универ\Основи програмування\Проекты по программированию 1 сем\Lab7\Debug\Task.exe
