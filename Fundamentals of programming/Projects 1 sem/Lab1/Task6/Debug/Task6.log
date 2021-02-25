@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Task6.cpp
+D:\My main File\Универ\Основи програмування\Проекты по программированию 1 сем\Lab1\Task6\Task6.cpp(29,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Task6.vcxproj -> D:\My main File\Универ\Основи програмування\Проекты по программированию 1 сем\Lab1\Debug\Task6.exe
